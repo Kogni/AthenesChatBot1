@@ -1,0 +1,14 @@
+## Interface: 32000
+## Title: Athene's Chat Bot
+## Version: 1
+## Notes: 
+## DefaultState: Enabled
+## LoadOnDemand: 0
+## SavedVariables: ACB_ordforraad, ACB_Settings, ACB_Chatlog
+Skriving.lua
+Lesing.lua
+Analyse.lua
+Ordbok.lua
+Ordklasser.lua
+Ordforraad.lua
+AthenesChatBot.lua
